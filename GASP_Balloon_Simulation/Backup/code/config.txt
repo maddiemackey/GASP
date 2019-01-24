@@ -1,0 +1,17 @@
+width, 800
+height, 600
+port, 'COM3'
+cd, 1.47
+mass, 1
+area, 1
+angle, 0
+temp, 15.0
+glide_angle, 5.0
+wind speed, 0.0
+wind direction, 45.0
+home lon, 0
+home lat, 0
+home alt, 0
+longitude, -100
+latitude, -100
+altitude, 10000
